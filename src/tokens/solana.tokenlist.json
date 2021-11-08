@@ -149,6 +149,25 @@
 			"website": "https://daios.io/"
 		}
 	},
+    	    {
+      "chainId": 101,
+      "address": "5AU8QfXoaf4qRYMaBamUuyBoPUam8DfpVGNAHJQBj1kx",
+      "symbol": "MNFT",
+      "name": "MyNFT",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": [
+        "nft",
+        "swap",
+        "nft marketplace",
+      ],
+      "extensions": {
+        "website": "",
+		"twitter": "",
+		"instagram": "",
+		"discord": "",
+      }
+    },
   {
     "chainId": 101,
     "address": "4JEaBv49a4KdSrMduKZS3PcBCcPmPEmaY3uP7kXv6cj6",
